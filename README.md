@@ -1,6 +1,6 @@
 # Forecasting U.S. Inflation: A Comparative Out-of-Sample Study
 
-Final project for E402. A single Jupyter notebook that compares five inflation-forecasting models on live FRED data using a strict rolling-origin walk-forward backtest.
+A single Jupyter notebook that compares five inflation-forecasting models on live FRED data using a strict rolling-origin walk-forward backtest.
 
 ## What's inside
 
